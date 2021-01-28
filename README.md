@@ -1,1 +1,2 @@
-# IDATA2001-G7
+# Application
+## Todo list
