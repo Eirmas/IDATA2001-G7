@@ -1,10 +1,10 @@
 # Application
 Todo list
 
-## Install maven
+## Install Maven dependencies
 
 To run the project, you need maven installed.
-First install the dependencies with following command:
+Start by install the dependencies with following command:
 
 ```
 mvn install
